@@ -1,0 +1,7 @@
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\bin\Debug\OOP_4.exe.config
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\bin\Debug\OOP_4.exe
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\bin\Debug\OOP_4.pdb
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\obj\Debug\OOP_4.csprojResolveAssemblyReference.cache
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\obj\Debug\OOP_4.csproj.CoreCompileInputs.cache
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\obj\Debug\OOP_4.exe
+D:\шарпы\4\OOP-master\OOP_4\OOP_4\obj\Debug\OOP_4.pdb
